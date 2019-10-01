@@ -1,0 +1,11 @@
+title: Silksy
+description: Silky smooth hair starts here.
+url: https://silksy.ca
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
